@@ -8,8 +8,15 @@ If window.createElement
 
 ## Usage
 
+to install
+```
+npm add '@dinoreic/create_element'
+```
+
+to use
 ```
 import createElement from '@dinoreic/create_element'
+createElement('dom-node-name', callback_func(dom_node, node_atts) { ... })
 ```
 
 ## Example usage for [Svelte JS FW](https://svelte.dev)
