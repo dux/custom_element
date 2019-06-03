@@ -1,9 +1,9 @@
 {
-  "name": "@dinoreic/create_element",
-  "version": "0.1.1",
-  "description": "Alternative polyfill for DOM window.createElement",
+  "name": "@dinoreic/custom_element",
+  "version": "0.2.2",
+  "description": "Alternative polyfill for DOM window.customElements",
   "license": "MIT",
-  "repository": "dux/npm_create_element",
+  "repository": "dux/customElement",
   "main": "index.js",
   "private":false,
   "keywords": [
